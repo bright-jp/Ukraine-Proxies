@@ -1,6 +1,6 @@
 # Bright Data's Ukraine Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/ua) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/ua) 
 
 ## Overview
 Bright Dataの[Ukraine proxies](https://brightdata.jp/locations/ua)で、シームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、そして高速なレスポンスタイムを提供できるよう設計されています。ウクライナからWebサイトのスクレイピングを開始し、もうブロックされないようにしましょう。
@@ -39,7 +39,7 @@ Bright Dataの[Ukraine proxies](https://brightdata.jp/locations/ua)で、シー�
 - **3G/4G/5GモバイルIP**
 - **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/ua) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/ua) 
 
 ## Getting Started with Bright Data's Ukraine proxies
 1. **無料トライアルを開始**: クレジットカードは不要です。
